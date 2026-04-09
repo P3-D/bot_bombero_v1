@@ -1,0 +1,16 @@
+# Seguridad y credenciales (¡NUNCA SUBIR!)
+.env
+assets/credenciales.json
+
+# Bases de datos locales (Cada cuartel tendrá la suya)
+data/*.db
+
+# Basura de Python y archivos temporales
+__pycache__/
+*/__pycache__/
+temp/
+outputs/reportes_pdf/
+
+# Entornos virtuales (si usas uno)
+venv/
+env/
